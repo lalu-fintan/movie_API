@@ -1,0 +1,16 @@
+automation testing :
+
+* frequently test our code ,with less time.
+* we can catch the before the deployment.so after the testing we can deploy the code with the confidence.
+
+types:
+* unit testing
+* integration testing
+* end to end
+
+
+*unit test - test particular unit our application without any dependancy. but It's not give the confidence to deploy. mostly user for  test our logics lik looping and conditions.
+
+* integration test - we can test our application with external dependancy.it take longer time to execute. but give more confident.
+
+* end to end 
